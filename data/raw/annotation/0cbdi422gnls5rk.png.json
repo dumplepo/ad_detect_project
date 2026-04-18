@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 411262122,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "zaner",
+            "createdAt": "2020-04-06T14:11:52.885Z",
+            "updatedAt": "2020-04-06T14:12:20.038Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgvApk83GwAclK87b1QGq3p4tjSEXc2zsbeRsceFgc79RfdFvE2HT/TTuTX9KGLZKbd/+u4BBQcGhgaExuFLya7MzMAuI+EBYIbQcKMjKxKDEG9iqcBSthDCyFSCsICVzluMQDlOUQEAg1p4rCGRnPd0n+99n3bnJ1IlD5H649Sorm11OLrPWB3mDwdPVzWeeU0AQAkx5AFw==",
+                "origin": [
+                    811,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 411262152,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "zaner",
+            "createdAt": "2020-04-06T14:12:19.799Z",
+            "updatedAt": "2020-04-06T14:12:43.878Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg6gCyuTnYgOSfTzVPgdQ5TxfHkIq4t7ct+Q4o8LA4/PnvPruNqcul6LjhSs1Hid29S13S0j4LKDg0MDAysXAISDAtVDjFBGYCxQ7oLFA4xQznKS1Q4GKB8RqaNJghLKDO+0xmHZccoWYoJDQjSdlLH7lb+Cd172/eSnuI1gdmjTtyFT6vYeLa5gJVFMrIulHr2Z9gJq5vwddzIyAu4VqkAZReoPHg8EKOZxaMTMc5S2amaD94LLA3AOgzBk9XP5d1TglNAClhS1Q=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

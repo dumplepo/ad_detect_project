@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 383541213,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-03-18T12:59:28.491Z",
+            "updatedAt": "2020-03-18T13:21:44.373Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJTgViKgw1I7nORc2JgYFzi6eIYkuH8drauB0ughOv5H82pzRGss4+mbFxzMsFYInVz2tlZd7UkWBcfTNk0g+cWy+KE2GbPzc1GRc0KSnXxFTzK1fo63KcTJc7ttjbeU7n+kKdkxqw0phksy+pq/n+7vcNwb75QutZpL3HXpUVJzMVaobw+x9dwSntIRgSsjGu8KZJ3gi2J2VvrqrCB/Ga1HIXUBNelVSxiwTsUpTt416wM+X6g6MysDY1TGnmnvmKL8H3YlqNgtmFpUCzja8PsQ2xBbNtCV3EnGLdKb2q8cWCdVykbT9K1Ft4lPDIrQtQP+HGZpzBvbFzoVcry5ijYTouwlXyNfyF2LteayrU0ydIs4NCBnV5Lo+fnNfbxTjEoWBn0UjGW/zWYvTYo08rxMheYvTwo81Gw8AIQ+8OCoJeivXFXLUB6PZa+Yt6u2vcs+QbDh0VBmTe7p+0HiTsA9TbOE3tl+f/yAesFtWz5B5ebui29FJSkq1mWxHxX+sCqXx3+u2Odll5axp5b9yLKpiFWeuKTnytCbs1b6v04fN7/HT3byjnfPrA3eFnyZqN/wAymO5N+qEgCo43B09XPZZ1TQhMAsHTFSA==",
+                "origin": [
+                    0,
+                    166
+                ]
+            }
+        },
+        {
+            "id": 383541793,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-03-18T13:08:11.340Z",
+            "updatedAt": "2020-03-18T13:21:44.373Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBIQLe/YlQTkcNChoKAAAADUlIRFIAAAC9AAAAHggGAAAAeV8fcAAAAehJREFUeF7tnEtOw1AMRe0WgWALTGAFjNn/hCUwYRd8hBAYuaRSFSVNmrznOPRYivpRGrvHV7d+T1VUCAgkIGBmKiLXB8dNhdd3IrL1RAQEOgmY2WVlER6K3J9XD/WonoUExQiY2aYRYdsFXTA1nHFbrPgkF0L0BRphZlcTBDdVpJ6LmEHgX4rezNyd5rreKaJ09yVWQiBM9GbWnt1qitLnUAICnQQGRd+sqP3D9yLyMsDx6chqm7UDIkxBYCd6M7MU1VAEBGIIbBB9DGiy5CGA6PP0gkqCCFzg9EGkSZOGAE6fphUUEkUA0UeRJk8OAuze5OgDVQQSQPSBsEmVgwCiz9EHqoglwEwfy5tsCQgg+gRNoIRYArfs08cCJ9vyBHD65XtABcEEEH0wcNItTIDdm4UbQPrRBPyfwK8i8tY8+vPDo+v9vnOfmelHc+fEkQQ+O4Q5S6yq6p8vFoi+GMrVXehnhFv2uWuviFX1KzsJRJ+9Q3/1fRz5eZ/koqr6vo6vXr5KRF+W6ffMmbNTwKrq1yUKEThn0bvT7RdDk9yyPR6oqjsykZzAGkTvM+LJs+XQYkpVfaYlzpBAadGP3Toa7ayq6rsBBASKEei9NUdz+w+/kdGDiDwOjAI7EfvNFYpVxoUgUInAL2p8KzJdmf1jAAAAAElFTkSuQmCC7kf1UA==",
+                "origin": [
+                    383,
+                    151
+                ]
+            }
+        },
+        {
+            "id": 383542333,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-03-18T13:17:11.941Z",
+            "updatedAt": "2020-03-18T13:21:44.373Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKrgFiBgw1INsU+tmFgYDzk6eIYUhH3dkauF7OhiKuwq6NIqeGu/6w7JEVbFj2Y2i76ysQ0uHr+kZeVBvZW8ttnTnae5KkrwjKJ08NKf+kdn77bx3a+tP3+etnea0/MhP6fBwrPVgzxP9TtbKjwaiELe13cpZf67pt8P+q5V7i6yC4Ul8qdUJIkcXIdW+3evbNbV1Qrz/7esOReicVeu7+1tu/n9z3Wc8ntT1P09F8yr+N44gX5vU8fuUwVuRzrv2hei+HbIGZBCa8Qz40F7z2vTDawU1jRKrihU0tzm0KV0FeVnrUCXEzRLPuAAnX3z8pcXSa9beNKb0eFVoepS6akOCkmqDSscJvh8lTQ4YrNNhVpToVVgmqBlSwCpv26J92YOrJaPEPkGF3OJntvmsiwSCpRaKo7Q+DnG5Ny8Gibz3LPS9N/8uONhe9ez1ubvfWa6KJFl/1Z7vFO2mshoLyq+dEOyfPsfSkf/wi0rnAucd4saCh0dq7R7ODMtaZuR1xFFj0reXxKIXLN2xWmjC53ww5u+nHcQL9xaafVmUf3b/su6VV7lST2f8VT1QciU4/u357vcVvhgtDXxL+KG7KDy66Lq3XXX/FS/sDoukP1klaNVCgwUhk8Xf1c1jklNAEAgs7V5Q==",
+                "origin": [
+                    762,
+                    131
+                ]
+            }
+        },
+        {
+            "id": 383542400,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-03-18T13:18:21.393Z",
+            "updatedAt": "2020-03-18T13:21:44.373Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJwByAE3/olQTkcNChoKAAAADUlIRFIAAACmAAAAHwgGAAAAbU22ygAAAY9JREFUeF7tmEFOwzAQRcd0wQa4DPe/AKeBXXeDLJHWRAr5aiYj2zxLVaNm4nGen2YqF2NAIIiAu7+Y2dvP57W5Xn5rv9v772ZWn72NErQmphmUgLs/7QhUZdqTbIm5RGFAzCiSyfO4+/OGUKpES/X6VamSX2MzHWIm78SBdrduh1XMaQdiClvba7sTlj5syNRizt7uhrVOWHiXYtLuhJ2bPCRMTNrd5KYkv16h3SUTJ51EoIrpUiRBEEgkgJiJsEmlE0BMnRWRiQQQMxE2qXQCiKmzIjKRAGImwiaVTgAxdVZEJhJAzETYpNIJIKbOishEAoiZCJtUOgHE1FkRmUgAMRNhk0ongJg6KyJ1Ap9m9mVmy3d7vXuvlHJFTB32f4m8rqTaFamNL6XU+MMDMQ8j7G4CRaTNSlarVQ9vhJg97MJ9DV1Uqx6QIGbsLkxRrWKRPDYbYlKtHjPn5KdmEpNqdbIsmdP3Iib/rTJ3fYBcUWJSrQbY7JGWuBbzozkU/etw9HZgGnVuNRI01no+gW+KNRjbtFVhKAAAAABJRU5ErkJggkeUxbc=",
+                "origin": [
+                    934,
+                    123
+                ]
+            }
+        },
+        {
+            "id": 383542617,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-03-18T13:21:44.222Z",
+            "updatedAt": "2020-03-18T13:24:23.924Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJwBKwLU/YlQTkcNChoKAAAADUlIRFIAAACeAAAAIAgGAAAA40XBfgAAAfJJREFUeF7tmYFKwzAQhvOjKKLow/j6PtJUREFF8ZeTldUY20t7K035D8ZGd72sXz+SS4ekEIFKAiSvU0o3KaX8fezYbTcUKsdUesMESJ71ZBmTpJOqlDfbm9kFGr4PTf10klf7WaYkwpAk/fyLtVy0xDvynSB5mi1LU2eakyP/1EXLS7wB3CQvJ/Qx+exjNRQZgU2KR9Jmh9rGt7Rc2WylOAKB1YlH0vqQqcuRnWcv64cUKyYQJh5Jq+UVpjS7dOfazkuxcQI/4pE8H9gx1ci0cVy6vCgCIMmoYqojAl4CEs9LSnmhBCReKE4V8xKQeF5SygslIPFCcaqYl4DE85JSXigBiReKU8W8BCSel5TyQglIvFCcKuYlIPG8pJQXSkDiheJUMS8BieclpbwhAi8ppfuU0m7/3v/cHfv1ncSTUDmB555ARWkyyXYA3moxSrxaYm3lP+WSjM1MAN6XuESJtwTlmDEevctYJxeAj5ih46tIvHimnooPheVssC8C8Okp3EqOxJt/p/I+aLTBBvA1f9i2K0i8w/0zGYZmnT9CAbBjigkEtiqeLUt123vAlj/FQgRaEM8aZNe2vmu+AVgjrlgxgaXFs616aTn7d4kDYI8EFBsjMEe81wnbe3s4qRCBVBLvzvPkGoD9TaIQgUkEvgHyTBfnMuFcuQAAAABJRU5ErkJggswy/Cc=",
+                "origin": [
+                    1122,
+                    110
+                ]
+            }
+        }
+    ]
+}

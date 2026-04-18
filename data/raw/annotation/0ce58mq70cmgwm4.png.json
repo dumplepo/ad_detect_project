@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 406103057,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-04-01T17:44:04.350Z",
+            "updatedAt": "2020-04-01T17:45:23.690Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg+gJki3GwAcn15zm2AQVkPV0cQyri3t493XfIgIf1wrP/9rs4VKxyAg4fFpaWv6Za2rf2SRdv8mdFhwYGRiYWDgGFCQ4J97/bOko+9ZJ4qhVmABF0aDjg68BgxhHO2HhPBsQFKs5lYXlgtjZva2DjvtDdudPA2veoKTDsf/Y0k0mbheWX6Kt7niCFwUyHnohMbucQyNBTuGAuz3BbfYKnQ8XpK7xbQSY5iDI27vNafqWSg6O28LDBMQtb4R/Hf0bPhJinXFBVuX9zxrH3HIqSuxcty2Fiqt3Wt6IdLDmHm8fxu8xJYZZdHBxfYq1y54Nc+sGbiemvfunlOI4aDYUL9RwvXoPdn9DY4LCf4a42Z4qowIvNZW6xYNEHOxsc8q04BCxYWKoOQ0LgFSfHl69Vy5KYEoFWSaxt5QS7cUaDg7xbdiLTV6C3qmyDDcGhIvDiLFBHO9AICXAQOdgCfRJ3PsRHwcdhAf/irZCw4xAWeHE4Q9dnwbwGh/j16VpqYHuY9koCrQcawcsMUlUiPmMn92ZJzi83rRbJMXGzpvEZ/tfbu8ExzrfBwbtx5uadqj2+//8qPC8y42XhuMOapseb3lap6PAgMOHZHQW3Boc1DfEvkmvX+i2YcuDMUZ0L07NWJm3PnT0zOwDogBU6ChfC3827xVkT6fDhp9GKp5D4tOeIYbCLmXz5tUHuJmB6YfB09XNZ55TQBABfIs8h",
+                "origin": [
+                    292,
+                    34
+                ]
+            }
+        }
+    ]
+}

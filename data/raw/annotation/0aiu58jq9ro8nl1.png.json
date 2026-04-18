@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 410801865,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:14:00.446Z",
+            "updatedAt": "2020-04-04T22:19:53.238Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJzgFiegw1ICs1ZYs3AwCjj6eIYUhH39rYj3yEDHpfAmv/O7J2yi7Jc35g8fpkuf31eZXRSj2Ecd72gIPdx412RTBulYtT4N6RdulyjzasnLZmwmfPa/u1s03u5N9xkqb/PvM7u8nmXDXLs3DtcH2xKjj3IpKft/GGvUdgBzqabey95bWi4fXfdw+/nDzCd21DwdDLD8jt9D/MajHVCf6oc0NyevEP6AY93qB1nwam3Eu/YLA4HTfVnmlNk3bab8dyGEJzKX36SDz1VvymQb9rdPuEdLOGiMgWrJ72xfW5WIGrYuE3p6F7jqMbVHVxbRDXPna+Q2fFzxb54pnI9zwNnn4Z9etWZwRjulH5/Ql4G4/bzXVemv2/itlh5q1rvM/8187wz1SeOmJVfBQYXg6ern8s6p4QmANW6kZY=",
+                "origin": [
+                    0,
+                    160
+                ]
+            }
+        },
+        {
+            "id": 410801884,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:14:18.210Z",
+            "updatedAt": "2020-04-04T22:19:53.238Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJHgFiRgw1ItumzRDEwMAZ5ujiGVMS9neMo1GLAc3jb//qSnwybBWScHncVC2+IiZUsPveT2y65R1DmoQVLlICEf0vFJJ7OeQHJy2Y5zBSIPCig3a1SfY5ji7DSYrclpxa82JnsragUquTfEvZ/M4fgGwHHpgOzZN07Fh0SWMmx5YdUiwDjOqO+AktfBRc+99e61ifbBK6F73TfMbXFuUOuvG29CIdLizMHo8niOhaBQ+uDhThZBJwajq+QZ2z58HqKCxNji8ADw1fuDIp/rFQnOjAoslT0/BJ04Njv56ki4MDBKIeurfH0/vSQvy0H+HU7rYR2iCgpiwSlBqS4szYKKV5R4FgqlPJPr1HM6Q7v5/cyQIkv9zf2CkiGKoWyHd1aruBSaO8RymPzw6qFg+n3LwunvbcZnPacLr/5tqM0jtdJpzq1unZGdwLHxdf3cj9vjedsE7gds7G2SctIVluv+dQUKzsNYCAzeLr6uaxzSmgCACjlkK4=",
+                "origin": [
+                    156,
+                    169
+                ]
+            }
+        },
+        {
+            "id": 410801939,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:15:29.615Z",
+            "updatedAt": "2020-04-04T22:19:53.238Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIHgVibgw3EmvumgoGB8b+ni2NIRdzbOYF9zQY8rLN/y88KDcs6HebdOTnd0m/Z/Q8Fx+QYW7fZ/HBYMPlAoYz73a1TgqyUl93QLf0YLHBnR8dylpuuDk297REbv4ieY/NYMIPFKEjYoenK28UVrIwqAQEqyqaMKh537brCBRyYWF1Jk2wsquPUSlK9ed+hJ+GY4VaWQ6oX9J7PbYuJS7l+OjaMqT9McRr71R8+KhzvGJNYzRf809D4NU9B7uAsUYXw6viJC+Ze/Ra9TktMKMf+1keGRU+dmn5I3tjHtJpFd/qHaT4qN+pYHjNGsG0Lu63UmBrqkbDw6DY9lgkHWLUXzuRQcFyWF7iam1Gl4KBXhhqTx4SV0VdeOTFwxmwQmtXJIJTySmzrLsENHQfCl+TlKlhMOlAvdCVx/yRnVaezzy0dU55bfus+8HzD9j8X1zuxqCRwLFe8oNz46KWhkI8xk0iRqqNqcfl+gyI3B6a0fCmm547/ZV5Zc87rfjGRkXOZJCNXoMeF4sov2o7a/+ROR22+ycckxrmvNjtF9KBK4y5fj6Vqs6z9NRtdWwI43aLaHJS/PLtzXetgpWj4eYmosFlhTdOO9t7Rifx0M8w5waVpIte2CQksE57vm3P23yVXpvOZyr9dE9I+TmhwjJ3U4LrLg7OO4byKhHTCwyvrgSmCwdPVz2WdU0ITAB8t5Tc=",
+                "origin": [
+                    352,
+                    166
+                ]
+            }
+        },
+        {
+            "id": 410802562,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:17:48.847Z",
+            "updatedAt": "2020-04-04T22:19:53.238Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJngViGgw1IHrpn/ZiBgZHX08UxpCLu7R1HrkMGDC6Bxf+d3UXClQ5N8Up6vrPs1rnzNbtezyg+F30zv8fwlNbqaqXGixpnO//Mm17l8aNX2fO82r5vVUsiT9d3755sZc12KWXPn99f03LZHGc9u6z/vu4Lr/esTw9XzBdW8D3ns2gOQ+Yp9gV1fg0mlsadRUxLNOUbflkyXnpyRuUU54RlNQyvnrN4TDaerKHuMOsTI2WaDiy1T33ibf309b/Av97exS2SF/sCXp+akLb5s9rbNPZPDws9Nv+X1K12Yqp385+VOrnkcTnTf6WXsrNjig/W7845AQwfBk9XP5d1TglNAHO5j7E=",
+                "origin": [
+                    771,
+                    197
+                ]
+            }
+        },
+        {
+            "id": 410802651,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:19:53.069Z",
+            "updatedAt": "2020-04-04T22:20:13.553Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKOQCzOwQYkQxSU1gOpKE8Xx5AI97c3DnIyKAgcObD1/yL/EJs3Bz8+tk9ptpi0ZFXW3f3zGJ2YnBxusCYcavpQLbKdU6GhYNYBFoEZBfEnni3gPM6q1nCg5Z+lAXsxEFXsFzJ1FDZZKG7ImKETvYdZPXMH0BYGT1c/l3VOCU0AI4MxWw==",
+                "origin": [
+                    1215,
+                    209
+                ]
+            }
+        }
+    ]
+}

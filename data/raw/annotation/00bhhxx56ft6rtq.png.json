@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 410800405,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:00:42.009Z",
+            "updatedAt": "2020-04-28T17:24:17.712Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg5gCytTjYgKR4Z812BgaWZE8Xx5CKuLfXA/seKwiwHvjxr/2b1qV1aWlPfRoY3rWd2t64bNaNPY9tzn+++LFc5vjFQqtgQQWHBgZGJhYOAQWDwAcvZAWissV1op72KMOFL/gr+Dhk3JwUcHFRGg9ECCjXeJ1pJbNTdjJrd5jlY4gQUC5M/IaRwpeMVRMuOl+UYYEJX2RhacmQrbSRO+R+YJlGJ9TcDZ0NDRs8F8+/LWJjlrVtrRDUCClWlhY3i8P7WFj4lzfClPYBlfrpT7/T+WFjSnRuF0SYQ0dBgSWv79IxTg65xzlnfSAOfiImIFD03f/rQRaW/gTeQD6ICQG6CgohkyUdFNY3MEzeXq6lDrZsM9BhkZeuKTo8CGN8+CKsrlsY6AgHJUZGxcDNU7yAnlzesOGxDMgXBzwYGROXrNvJCXRMR0PAJg/l3GagAaxMTE6Mk9xBHn3gvcBEZ87zynMF2mvT3XSvgTRxMTEd4ordwg50go+Ixt4J57k4hLf/ex20VC/wVSg70GVxnBwc59hATgzhnBLTUs7NHtrALK/38uyBp76+DQeUgPqVerfwAuXPCFWUc4rypZUq3bN6f85tT1eoS8OBqQ0ND2JAznOYemC394KGgKMvH/oxvT+XujzVxzmBu3Fx6XQ7hrVFx4CRrLDd4aTrGXOl8v7QeP2AT/tXzL/KwfSdw4S9xfrU14M7ne/OAgbTD82AKsFP58qKOM4Ia/yNP7f6hNdM1iDWlpsX7PI2H13r3uDA1nipu6M8oy1v1UQH+8ZL5c77Rc+aeDk4SKjetljPn6U8JxHoVWGNvSwV832zO1uBRmoH/Kpj+rYbGIE/OT8y3v/DcMOu0avxVv/6ch/VDcc5BTz0A37P69mRyKiYFC629qRr4sVjt66ZMenK2/7/ndvX3iukIOCx4Gnt3701jIoBxlMv+R9YumT+0pkcNqxR9mb/us/xA0PvEzAYf1Yte5TApOdwUGrRnHVM/9mb65/vVTH4kV+S23oSlLh9HRxmuOUqMs3n3lFQm5fRZtS4mqGg9F8ca8emUBtXUGoQBKa8jthA4UYGpkMeDWp3Qpq8//t+mKYKDF4BYJLwUJ7imJDOmKji/33+Q8f9n754LwUGWYaggEDUlR5FhwRNRvF7S29lGoOS24eFDQ0fFBc8BLJf6Cps+CJmKg+K5CscHBymUfOAJh5QY3I6pda7zRcoGgMU7WMFyS8RFki4tNXnIAuHipCAgJCp90qQYQLhDhmdt6WnCioEqCsoXKmsnAVO6EsEBCKCtnhOZHHi4uBQvL1IA5JV5jVc2BTn/zbDF5hgz+67JQpJ/x/cHBIKXThiuDk4/NigmVhhRYOA8BbD7umqCjr3Em7DcvwZEYGstKz+SG8HicdZYfD8rsLkdPa8219G2QfvX19pqyoFljoMnq5+LuucEpoAejmhZg==",
+                "origin": [
+                    0,
+                    205
+                ]
+            }
+        },
+        {
+            "id": 430866187,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-28T14:31:54.176Z",
+            "updatedAt": "2020-04-28T17:24:17.712Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgdAGyRTnYgKSd/3QFIPXV08UxpCLu7R1rvhYDHlaHmv/O7UwaDh16RT3p/A1nfpz86ZHTY3js2XQ9AcGJcS1MHCbiHMwbK5nEKmu5Dyn1ZsS1Nd6wYYirl2XsdqrT5znyR25FA0NjsEJ1oIGA60QGRqbrDmXtGtwsHAIWLG8EVBuBImUdRg5ANbsbZBe5CCg4HOALZOMQUEho12AGqqoQLUgR42Fi4bAwOg1UyyIzM7UBSPedAevRZyzv+OQIFCiHmHFc9hGPwH338wFffZhY0ri3/J+edri67IjNfAfZxm/MG71W87zTmhuUnsrIvLHoe13cbtcHz3njPnwtY2QLvnQlwHY/MAAYPF39XNY5JTQBANr+YbU=",
+                "origin": [
+                    956,
+                    235
+                ]
+            }
+        }
+    ]
+}

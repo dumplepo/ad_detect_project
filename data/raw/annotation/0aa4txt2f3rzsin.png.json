@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 406090593,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-04-01T17:07:16.066Z",
+            "updatedAt": "2020-04-01T17:08:16.173Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJwBrANT/IlQTkcNChoKAAAADUlIRFIAAALdAAAAHggGAAAA8NSiwQAAA3NJREFUeF7t20ty2zAUBMDw/odWSgtXEkcWiZ8IDDprigT6QZOhqnw8Ho/HL/9+FDiO48BDgAABAgQIECBAoEXgULpb+Ob/rJeG+WdkhQQIECBAgEC+gNKdP+Nld+iFYdnRWTgBAgQIECDwTUDpdiQIDBLw0jAI1m0JECBAgMCCAkr3gkOzZAKfEPDS8AllzyBAgACBXQSU7l0mbZ8EJhZoKfgz/l1Ky34mHpOlESBAgECDgNLdgOejBAj0EWgpqTOW7j4q7nKXQMt5vGvNnkuAwPwCSvf8M7JCAvECvUqOAh5/VGyQwKlArzw5fZALCBQKKN2FYC4nQGCMQI//KJXuMbNxVwIECNQI9Mj1mufO+hmle9bJWBeBzQR6hbPivdnBsV0CBKYV6JHrSZmudE97VC2MwH4CAnq/mdsxAQK5Aq2ZnlS4n1NWunPPup0RWFJASC85NosmQIDAfwK1eZ5Wtr9glG5fEgIEphKoDemvTaSG9VRDshgCBAhcEKjN89QcV7ovHBqXECDwWYHaoH6uMjWsPzsBTyNAgEC7QG2Wp+a40t1+ptyBAIHOArVBrXR3HoTbESBAoEGgJstTC/eTUeluOEw+SoDAOIGasFa6x83DnQkQIFAqUJPjSnepsusJECDQKCCsGwF9nAABAjcLlOZ4cuH2S/fNh9HjCRB4L1Aa2H7pdqIIECAwj0Bphivd88zOSggQ2FBAaG84dFsmQGBpgdLc/tqs0r302C2eAIEEgZIATw/thHnaAwEC2QIlmf23RHp++0PK7HNvdwRiBK6GeHpoxwzURggQiBW4mtffAdLzW+mOPfI2RiBP4EqQp4d23lTtiACBNIErWf1qz+n5fYwedDrgaD/3J0DgX4GzMJc5TgwBAgTuFTjL6XerS87w4aX73rH3e3ryIein5E4Exguchbnv6vgZeAIBAgTeCZzltNLt/MQLKCPxI95mg+8C3Tnf5hjYKAECkwoo3a8H45fuSQ+sZY0RUMjGuN5x159C3YzvmIZnEiBA4I9AS+l+3iU1x5Vu3xICBE4FZgxApft0bC4gQIDALQKtpTu1eCvdtxxHDyVAYFeBGV9gdp2FfRMgMEagR+lOLN5K95jz5q4ECBAgQGAZAS+Dy4xqiYUq3a/HpHQvcXwtkgABAgQI7CvgpWCt2fcq3Wm/dv8GxMAj2hTRXHYAAAAASUVORK5CYIJ0sJ3r",
+                "origin": [
+                    0,
+                    142
+                ]
+            }
+        },
+        {
+            "id": 406090620,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-04-01T17:08:15.620Z",
+            "updatedAt": "2020-04-01T17:08:41.564Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgVAKyxTnYgOT6OicZIHXd08UxpCLu7ZWDvC0OPAyGl+ovOi5ilVsc+5OrYY5wWlm5vD0TC0cLk7LLwn3hwgofODkmOis4KIgLLKphZVNwcOi4w8DItLNB4Km2AZDh9ISNQ+AEa4tGfCMjh4CAkrlDg4OegstPLh6HhgaBnYxMLEWMiqfCExiYWFpO8AooTODmCNzHxCygoOCS18DQGOPQ8UlUooGBUbGImYXjCZPTlPUHGFg4OCZK47Ky8T+TsfH/+ZdsHTusfq++V/OrveCqEd8fY/1XG6OPOEg5HQN6kcHT1c9lnVNCEwDHWlAg",
+                "origin": [
+                    990,
+                    150
+                ]
+            }
+        }
+    ]
+}
