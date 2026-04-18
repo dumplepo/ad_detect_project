@@ -1,0 +1,7 @@
+path: D:/00_project/ad_detect_project/data/processed
+
+train: image/train
+val: image/val
+
+names:
+  0: billboard
