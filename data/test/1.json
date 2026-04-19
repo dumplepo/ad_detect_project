@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 277013301,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "model",
+            "createdAt": "",
+            "updatedAt": "",
+            "tags": [],
+            "classTitle": "billboard",
+            "bitmap": {
+                "data": "eJwB8wAM/4lQTkcNChoKAAAADUlIRFIAAAEeAAAAGAgAAAAACYzNowAAALpJREFUWAntwVGOgzAUBMHu+x96FgIEg4hAkZz1x6uSsYQuhHAi92QsoQshnMg9GUvoQggnck/GEroQwonck5GEn5LPwsywkK+F78lL+GcSLhh28hbKxNCQRSgvhpbMQlkYWjIJZWVoySSUlaElEMrG0JBJKBtDQyahbAw7mYWyMbzJIpSVYSOrUFZyIZSFXAkjk0n4BRlAeEx2oTsZRHhAjkJnMojwgByFzmQQ4QE5Cp3JIMIDchQ6+wOEAzEFiedjMAAAAABJRU5ErkJggvLLW80=",
+                "origin": [
+                    354,
+                    26
+                ]
+            }
+        },
+        {
+            "id": 133572555,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "model",
+            "createdAt": "",
+            "updatedAt": "",
+            "tags": [],
+            "classTitle": "billboard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgCGBgYODhYGBgYLhglvqXgYFBy9PFMURDdO1BRkYGBoYmhb/2t/xYjk3/mFojGY9KMS934GGcY+FqCNLt6ernss4poQkAnn0b1Q==",
+                "origin": [
+                    286,
+                    30
+                ]
+            }
+        }
+    ]
+}

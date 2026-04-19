@@ -1,7 +1,6 @@
-path: D:/00_project/ad_detect_project/data/processed
-
-train: image/train
-val: image/val
+path: dataset
+train: images/train
+val: images/val
 
 names:
   0: billboard

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 411045562,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-05T17:23:11.650Z",
+            "updatedAt": "2020-04-28T14:34:20.291Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    354,
+                    136
+                ]
+            }
+        },
+        {
+            "id": 430866258,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-28T14:34:20.836Z",
+            "updatedAt": "2020-04-28T14:34:20.836Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBXQGi/olQTkcNChoKAAAADUlIRFIAAAC3AAAAFQgGAAAABLp/egAAASRJREFUaEPtm9EKgzAQBOv/f3RKBUuENFnTTY6D8dXLnp0bUmvxeHGkJlBKKak/wKKLPz7Houx0saskURmv6p9uEKYLPuUGqolmI0YV+1rKLHyzQG4fy1vSU6mRe80g2LmNXGelRm7jEKoo5DZyRW4jTEMUchsgKhGK+NxzKyT1GuTWWVkqe5IjtwXxNwS5vTyHacg9RGQrQG4bSi0IuTVOjirkdlAUMxBbBGUqQ24TyFHML7G5zx6Rmz+P3PPs5JWILaOyFiK3FWc7DLk3QG60QO5N3BF8E+iqDXJvYs6fOJtAI/d+0FfHkeT8wLzPZsSrN0l27gDPMz4S/EeyAMRnS+SOIl9/fVYvjfR27oyCReJF7gn6SDYBLWBJWrkRLMCWZC3fCSSb4p5eTngAAAAASUVORK5CYIIOLZCm",
+                "origin": [
+                    0,
+                    175
+                ]
+            }
+        }
+    ]
+}

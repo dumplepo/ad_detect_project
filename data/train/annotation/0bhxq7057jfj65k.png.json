@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 410712595,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-04T11:43:02.073Z",
+            "updatedAt": "2020-04-08T10:06:46.160Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    4
+                ]
+            }
+        },
+        {
+            "id": 410712725,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-04T11:44:40.691Z",
+            "updatedAt": "2020-04-04T11:44:48.357Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKuQCzEwQYSYRNOA1Ixni6OIRHub68b8h0w4GBx/PF/ceeaKY4Xr167sGNh1FvZovDQs2fmXN/DIjVlPdcCnY8ZFyN9GFmnvJjW0e/X6aK5zKBVU5JxWcqcEq7gGZMEE7yOeS7PWZby5t/2vN8hdraV7qe11mXPBdrD4Onq57LOKaEJAN0/NpQ=",
+                "origin": [
+                    1211,
+                    54
+                ]
+            }
+        }
+    ]
+}

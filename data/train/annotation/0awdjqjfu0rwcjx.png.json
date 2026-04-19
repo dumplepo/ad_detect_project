@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 410712106,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-04T11:29:17.957Z",
+            "updatedAt": "2020-04-04T11:30:48.818Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg+gVka3OwAUnORzplDAwskzxdHEMq4t7evVl0xUCANeDPf/ncrEmLZjT1iEd6ry6tOHqtKOrG9smeN77V3q9n/bk597ZYiuY0xwYGRiYWDgEFh4SsRt2gC/mqKxszVLNjIGINDI0rmLxZ/k77Matj2q5jag5Q1RqiAl+8n1rdWd75oiGHC6rWIYjR0T4z8fy2pZ0Wwp++wwzYycryd+dr8aKvszompG7UgFpmyOhYv7Hp/L5Y3yNvRLfUQUQXTG9YcN/7ls1DVhPBh94pjRAjDvAyOv5nm+bNOYUjQ8Hryh1niCNsgG6Yz7Vr/gEHRt8jDjXBwmDbHjA11X1gipRrDGSa1RH46Zkq2MmlLCx/rfrcFB0etDWoPQKZBXbwwoYF8RzPzZhYngldiDkTqr8apLrxOVPTv2JnZaCKB5sa2h4bTeUGqX4AVPxf4MJboJskdAuu2Lz5va8+av6y5JKnZ/yBmrYB7Y2OXwx0xIKdDpkX8vdt6BbOsNBz2tkDtN4cGASzE/TUgVaaNN5srhPx53Wf4hXBzsi0FeiwqEnHFIG+VACGiEDN4UxTWd5CXt8ERSB3YdJtLUYmS6DuOaW9G7R53Vu0Ipgbixgd9985NxfoEA7FArFjfXUK5kfYdJocFh64eVNf5louyyWOnPLyR62F4We+AhX90P6Qb7Dyo48tt7XpswBnJpZXHHP+Vq817g7kqOG+w/fL9sGeKVUas5sZGgWZdJv+XT9cc5tv/vN5q5VX5foxfeaeYxv97H7iO9kWnl+2J/Z+gagsb5wfN2PrPNfwuGNbnwWFAmPDRWzHJ5uePf9mZUebvbjuYiN1unvr9C2VHEfEJWS/xDvN8/x4vlNUSGHDPIfVz1wu+BdM27NDWOSi2DQBgS/TNTb7Cik4KPQ0LJBfJrJRfNHMjlj51bOdHS7MX+wX5gkMXB1g4E7zUrvRnqbkKJj7MMDhQrkDOL0sB6aX4Nsxh1lNhA97b/jCZFfLtvnYzj2/fp6TKtaNdZkNDPEDLsDodDm66UolS8vKyqyrxUt1m/9ly9cfq7evX1s3N93fvFgQlBZmAtPCs2d6TBCzCqoZm/7lGpmD0x8zMP0xzovmTBG/4HNl7YcXC9bPK32daQLytbjAl8XhJ35xqIhHaNb0cfxa//jzZfeqSfLat5VBSen65/lMwLQaJiJxMYHjl/Y8k2pgFjpgAYzaOXtnAlPVB9WA1S9/fJlaHX+x/ALQRxuWNSzYn3b37SxgovnPeSXL4oIQyG08wIzlJrumCZTu77GYyPYxAxnzuDl+neftBafvTlYT2c7u7GyWSUDBk9w51aCcM8Hd4fLE5dPKnBa0A4PJ+aYMODspTGxoW+xv+Pf8tdo5xueVXqSvW7dXEJx1jrIYmSo2/Utq336wjPUv24o2FWh2jxG0yPJh+avdtM5SSODLXH542RDc6HNf1/JuziRulr8qrVt44RL5jL4ntx/O5zIOfj/f884SYCHF4Onq57LOKaEJAHbM4xk=",
+                "origin": [
+                    0,
+                    133
+                ]
+            }
+        },
+        {
+            "id": 410712141,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-04T11:30:48.662Z",
+            "updatedAt": "2020-04-04T11:31:34.599Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg1AayRTjYgOTV/9IVQGqTp4tjSEXc2yuNnAwKPMyOu/9fEJ1zqP01y8Mgo927jwsqODwobjQMm2+uIsfI5H8gopKFiUWI6ZhW4OQJLBwS2vYODQ5OByJUs4QmMTAmP2XnEPDgkFjt4uskpJCw5g8DIxMnY/LUFZ4eTCw9U+UVHBQUE9YImXJ6NjRs/MTMwqHC0hO6SE2RU8AgrK6BobGlYaPXFRUVRqZjp/gFFCYARTtntag4HIj4yYhkacwiJv+jR3q1k4CuZ/B09XNZ55TQBAAEf0Yj",
+                "origin": [
+                    981,
+                    160
+                ]
+            }
+        }
+    ]
+}

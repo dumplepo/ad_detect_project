@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 414483556,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:36:33.716Z",
+            "updatedAt": "2020-04-09T19:37:33.595Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJwBWwGk/olQTkcNChoKAAAADUlIRFIAAABZAAAAKQgGAAAAXimFbgAAASJJREFUaEPt2OsOgzAIBeD1/R9602Q28zIRKG2B05+zEv3GzhrKK8F6L+vuNcuyLBlMi1s+OFWbgv29H8iU5vc6B/VYEsgEsgZ3Kw3kC+QWsIiLA2xrVMRFg4x9GON1W6q4sO7Yf/jhkUfBcrtds3/IOTkD7O6PVfMNce7NBtsNOTOsKTJgz79vdSYDlQ5NETJgaVhRXACWB8tCBq4ctw6gjiWAqkc9zUbWDwDbHnYXFwC2BV6rl6zI1kOhtJ3cEzYV8ijYFMgz4NYjXKRMngk2VCfPCuse2QOsS2RvsG6QPcNOjxwFd7rTRTTYaTo5MuxQ5Cyw3ZEzwnZBzg5rhgzY69m0ep4MWHroL0IGLA0rigvA8mAfIwNWDksiA7cN7lblA3Cxo/rk4Vl8AAAAAElFTkSuQmCC9AyPvQ==",
+                "origin": [
+                    0,
+                    90
+                ]
+            }
+        },
+        {
+            "id": 414483565,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:36:50.781Z",
+            "updatedAt": "2020-04-09T19:37:33.595Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIrgViagw1Isl9fH8jAwCjq6eIYUhH39pYj3yEDHpeLz/61t3F0hmqGvpF81HK/NGfV/O0OTWU6f2x+GX/6tdZe+bll9OIDl6abdZlMkrkxMeuW5ISs6n3bGKOlRZfcmvcw98A+P/ZLBqt/Nv9n2v33UfXdP6+f8N5jDWvhDfpzT2wGr/SS7eFHGj0YVXMmuOU1SHo3at9Q2PokbeUmBo+ppjdTNRmCvMOmaXE3hEROjp3GpLA1JRWHVPz/hEPvf017piOrk/BXXOQEe37zY3nuiIlps5htgvPX39zkYTyTcd7K8Pwy7yU3zyicF7tyrjnk9meGHRYZ8exBtZevuE2Y/7nRxHXVtQ/rDjhGnb65ZftKHpkllyPefD3o98T/f2j2ldKTljzAcGLwdPVzWeeU0AQA42KSJw==",
+                "origin": [
+                    133,
+                    94
+                ]
+            }
+        },
+        {
+            "id": 414483571,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:37:07.623Z",
+            "updatedAt": "2020-04-09T19:37:33.595Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLrgFiGgw1I/uBrmcDAwMjp6eIYUhH39rYjX4sBD4vjp//uzPIMKm6Le94+m6eRd72wfO73con9pfXHXu+symh82ra6jHVf1IbnPyt2ZJU9WM1qfH57++oU9r1B56vFdhzbd+D7UdZ169fWGH+YL8wU/mxqtWP6jwNnS7f/TT35oXH3XPf77BYPmbevn/1p8t6D7Hk/v56TYdhh/D2uLuvBtPiHZxgbrIvfP13OlvdTFKtE3d9yp1/9Z05fT2+4z7qmfjXjv/d7Cz4sbhBdFyX/I+vgvueLH6662bhe7Iztfal1s2R/ZDner3zw65YcuqsqHcu/HDhbsv1v6EuQqzzOs+94GD93Zf7VRRf9NwDDhsHT1c9lnVNCEwAZ1KBe",
+                "origin": [
+                    304,
+                    105
+                ]
+            }
+        },
+        {
+            "id": 414483576,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:37:17.295Z",
+            "updatedAt": "2020-04-09T19:37:33.595Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJwBcgGN/olQTkcNChoKAAAADUlIRFIAAACuAAAAGggGAAAALldnjQAAATlJREFUeF7tm8sSxCAIBOP/f/RuLnvYVKoEH4hjew1BmGmseEj53OtavMq9FpfA9pspUDKAO0MzhmGGqnlyyoI7S2IGYpayvryA69NrWjQD4ZMWcH16bRWtPAyAuxWK/cW2wPy8B7Xk6K/8PwPgjlY0eb4W6KIu8J7aADc5aKPL88Dx2zsKXE+vgOtRSyAWcAVMPLEFwD3RdZGevfDyqSBivEIbHngBV8FxkR4AV8TI09oA3NMcF+kXcEWMPK0NwD3NcZF+twe35kPGG2WtZp7XFZAHty6BLYIBsOkUFWUFN6tvW/0yk1XEKNhG7gO4I9UMysUAXJcF3Mw6bXXiBnFt2iazqZYGANeiEjGvCqyEvwbuytosuHDiWlRKHtMCGeAmN5Xy/Aq0DIJ/l743OHH79OPthwJR0H8BS2izz9Xr1BcAAAAASUVORK5CYIIGvaMQ",
+                "origin": [
+                    479,
+                    117
+                ]
+            }
+        },
+        {
+            "id": 414483579,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:37:33.182Z",
+            "updatedAt": "2020-04-09T19:37:37.699Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBJgHZ/olQTkcNChoKAAAADUlIRFIAAADCAAAAGggGAAAA5YyDcwAAAO1JREFUeF7t20EOwjAMBVFy/0PTQkulSohFFnaMX/aV3fEfJQ1iPPf1KLLGvoq0qs1iBEYlESLZki6Sdn4tIuTP4N0B8XIHQYRc/mnViXdHT4S0KPYpXEE6IvTJY5s3nRGPCG3i4UV/ESCCfCDwuqxwfSoHCBBBBhA4rq/tCJKAABFkAAE7ggwg8CHgaCQLCPhGkAEEDgJ2BElAgAgygIAdQQYQuAg4GgkDAo5GMoDAeTSaAeHX6BlqnlmZQIk/wxNv5Qj9R28lRIhETbpI2uvUIkLyLIiXPICzPBHWmENYF8T7jpoIYRHsV6iSdBv34WfLTcz7bQAAAABJRU5ErkJggisecZM=",
+                "origin": [
+                    863,
+                    134
+                ]
+            }
+        }
+    ]
+}
