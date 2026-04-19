@@ -16,7 +16,6 @@ INPUT_JSON_DIR = "data/train/annotation"
 OUT_IMG_DIR = "dataset/images/train"
 OUT_LABEL_DIR = "dataset/labels/train"
 
-
 # =========================
 # SETUP
 # =========================
@@ -26,24 +25,26 @@ def ensure_dirs():
 
 
 # =========================
-# FIND IMAGE (robust)
+# FIND JSON (from image name)
 # =========================
-def find_image(name):
-    for ext in [".png", ".jpg", ".jpeg"]:
-        path = os.path.join(INPUT_IMG_DIR, name + ext)
+def find_json(image_name):
+    base = os.path.splitext(image_name)[0]
+
+    for ext in [".json", ".png.json", ".jpg.json"]:
+        path = os.path.join(INPUT_JSON_DIR, base + ext)
         if os.path.exists(path):
             return path
+
     return None
 
 
 # =========================
-# DECODE BITMAP (FIXED)
+# DECODE BITMAP
 # =========================
 def decode_bitmap_to_mask(bitmap):
     try:
         z = zlib.decompress(base64.b64decode(bitmap["data"]))
         nparr = np.frombuffer(z, np.uint8)
-
         mask = cv2.imdecode(nparr, cv2.IMREAD_GRAYSCALE)
         return mask
     except:
@@ -64,7 +65,6 @@ def reconstruct_mask(bitmap, img_h, img_w):
 
     full = np.zeros((img_h, img_w), dtype=np.uint8)
 
-    # prevent overflow crash
     y2 = min(origin_y + h, img_h)
     x2 = min(origin_x + w, img_w)
 
@@ -74,7 +74,7 @@ def reconstruct_mask(bitmap, img_h, img_w):
 
 
 # =========================
-# MASK → POLYGON
+# MASK → POLYGONS
 # =========================
 def mask_to_polygons(mask):
     mask = (mask > 0).astype(np.uint8)
@@ -84,7 +84,6 @@ def mask_to_polygons(mask):
     )
 
     polygons = []
-
     for c in contours:
         if len(c) < 3:
             continue
@@ -107,28 +106,27 @@ def normalize_polygon(poly, w, h):
 
 
 # =========================
-# PROCESS ONE FILE
+# PROCESS IMAGE (MAIN LOGIC)
 # =========================
-def process_one(json_path):
-    filename = os.path.basename(json_path)
+def process_one(image_path):
+    image_name = os.path.basename(image_path)
+    base_name = os.path.splitext(image_name)[0]
 
-    # handle .png.json
-    if filename.endswith(".png.json"):
-        name = filename.replace(".png.json", "")
-    else:
-        name = os.path.splitext(filename)[0]
+    json_path = find_json(image_name)
 
-    img_path = find_image(name)
-
-    if img_path is None:
-        print(f"❌ Missing image: {name}")
+    if json_path is None:
+        print(f"❌ Missing JSON for {image_name}")
         return
+
+    img = cv2.imread(image_path)
+    if img is None:
+        print(f"❌ Cannot read image {image_name}")
+        return
+
+    img_h, img_w = img.shape[:2]
 
     with open(json_path) as f:
         data = json.load(f)
-
-    img_h = data["size"]["height"]
-    img_w = data["size"]["width"]
 
     lines = []
 
@@ -138,11 +136,7 @@ def process_one(json_path):
 
         mask = reconstruct_mask(obj["bitmap"], img_h, img_w)
 
-        if mask is None:
-            print(f"⚠️ Failed mask: {name}")
-            continue
-
-        if mask.sum() == 0:
+        if mask is None or mask.sum() == 0:
             continue
 
         polygons = mask_to_polygons(mask)
@@ -159,14 +153,15 @@ def process_one(json_path):
             lines.append(line)
 
     if not lines:
-        print(f"⚠️ No labels: {name}")
+        print(f"⚠️ No labels for {image_name}")
         return
 
     # copy image
-    shutil.copy(img_path, os.path.join(OUT_IMG_DIR, f"{name}.png"))
+    shutil.copy(image_path, os.path.join(OUT_IMG_DIR, image_name))
 
     # write label
-    with open(os.path.join(OUT_LABEL_DIR, f"{name}.txt"), "w") as f:
+    label_path = os.path.join(OUT_LABEL_DIR, base_name + ".txt")
+    with open(label_path, "w") as f:
         f.write("\n".join(lines))
 
 
@@ -176,12 +171,15 @@ def process_one(json_path):
 def main():
     ensure_dirs()
 
-    files = [f for f in os.listdir(INPUT_JSON_DIR) if f.endswith(".json")]
+    images = [
+        f for f in os.listdir(INPUT_IMG_DIR)
+        if f.lower().endswith((".jpg", ".png", ".jpeg"))
+    ]
 
-    print(f"Found {len(files)} annotation files")
+    print(f"Found {len(images)} images")
 
-    for f in tqdm(files):
-        process_one(os.path.join(INPUT_JSON_DIR, f))
+    for img in tqdm(images):
+        process_one(os.path.join(INPUT_IMG_DIR, img))
 
 
 if __name__ == "__main__":
