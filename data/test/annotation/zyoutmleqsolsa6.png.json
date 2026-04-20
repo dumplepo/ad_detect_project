@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 426340224,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:14:04.906Z",
+            "updatedAt": "2020-04-22T20:15:25.890Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI9QCzFwQYkU/9vSQBSZz1dHEMynN9OuijY5CByZM+/7jCuCxOFOViK7/OXpU/++GLuvgPFlcunR0QmrNnze7WxsINUj9MMhktRNed+e85giGNXuJvCMn/enbnTDfLqKn63HFQvZ1frmS1/zy7xw8m7jZyPn7Vv95eoKSpPOLTj58O3wmzz78jOIFfp/ZDfG/es5L8no37mGuv+mv3sS5q1/f7+m3boDu8lkYvN/fHCsun7+XN5fgA9xuDp6ueyzimhCQDsPnNt",
+                "origin": [
+                    0,
+                    243
+                ]
+            }
+        },
+        {
+            "id": 426340233,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:14:14.749Z",
+            "updatedAt": "2020-04-22T20:15:25.890Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJwBCQL2/YlQTkcNChoKAAAADUlIRFIAAADcAAAAHQgGAAAAwe4CkAAAAdBJREFUeF7tmkGSgzAMBJf/P3qXHKhiEwISlka2ac6xRp5Rx4WT5YcHByZw4Hd9RtjGMkKT9DimA6NAoHQX4JRuF2sBQHEAqzzA1Wfw0QFgdBhKUEsA92akctiX9TnKUdlD0BxRxujAEMDNOoDfgHtlN+uejXM57cduAccwxMzDGXBAF+Nxb1UW4KmJ5Ao2gKvJJVsV4LIdPqhvgW1bxhdiQUCJkgCXaO5RaQ9snHLicARyACcweS8BcGLDO5MDOGEgXtg44YThiKQATmT0SwbghGZ3KgVwomDuwMYJJwpHKANwArPvwgZwgnDEEgCXbPgRbNtVvwVEfhZIDkhcHuASDb/6r6QFOE65xIAKSgNckulXsHkuUTjlkkIqKAtwCaZbYNtkLaccwCWEVFQS4BKMP3tve5cDuIQAOi4JcMXhAFxxAGJ5gAsw3HOi3TnhuDgJCCmphOULcy8NcAFBtADH5UlAACclvEDkdrP+24gX8naLPZckR2qeoZgtL8/e25OqrwBwDRlYhsUCiKXO1qalXsOW/i319BWlOXsdgGtI2DqQFkistfbvc541DdtkaaADANdgJgPfYN5Dlz4WOGB56MQXb7tL4ICheCqQT3PgDxBF88pT2FVYAAAAAElFTkSuQmCCYtzaaw==",
+                "origin": [
+                    144,
+                    235
+                ]
+            }
+        },
+        {
+            "id": 426340243,
+            "classId": 1371608,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:14:42.319Z",
+            "updatedAt": "2020-04-22T20:15:25.890Z",
+            "tags": [],
+            "classTitle": "mastercard",
+            "bitmap": {
+                "data": "eJwBZAGb/olQTkcNChoKAAAADUlIRFIAAADIAAAAGwgGAAAAOfLAHwAAAStJREFUeF7tmtEOhCAMBOH/P/rOR8+EyK0Uijs8WyjTnZgYa2FBYDGBz7EWt9A8vmZtjL5yEMgc3hmEEGQG5aAz3MMbhPVnWwQJokx4g8BO3tZWEAI8OWmbHpdSEMK7aZpe2PbfghDeF6aAK7W/YhF40gGBNoGKIMQDAghCBiAgEeANImGjyIUAgrhMmntKBBBEwkaRCwEEcZk095QIIIiEjSIXAgjiMmnuKRFAEAkbRS4EEMRl0txTIoAgEjaKXAggSJJJ12OdW+EXoNjBXHm3TkOQ2Dl07d4aFpKU0hvkLtDCQwgiQBtdsrsgq0M8eh7n/RAkkm7n3ncBG/UmuTuns12rxxAkwbgJboIhNFpAkAezIdgP4G1SaiEIQd4kjQnbTCUIQU6YEPOWvsjXe9DZ35bOAAAAAElFTkSuQmCCm+aL6A==",
+                "origin": [
+                    367,
+                    226
+                ]
+            }
+        },
+        {
+            "id": 426340252,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:15:00.441Z",
+            "updatedAt": "2020-04-22T20:15:25.890Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK7gViagw1IqvT8a2FgYGTzdHEMqYh7O8uQr8WAh0X/f/0XWVWPcImUyUeMVwq3z5VV4Tp2XLVRiel+smhvnUmZjdXThWYsYcKbhNZsCr/kO8tXyIjz5n3DU/McwiWFFfYZMCnvdtqXcPlRuI7ybiO9PK/m47tVdzuZZcjIJGoY7KiNKEltF/XrW/3mybfEm1Nlwyws122afLs9Nbws4uGTHaf88uSnxd5MbJ38WMt6Z21EGTbF+RNqZbSlnG8uXnJnutODvjma4vPaYu5x/W84c2z39z0zk8ImBH/jWiWcVia8mWnhpvAA3jMh5xiWPNGt28zeoJXGcIkt+tbJdTOkI8xfCi4/vW7O5Fnscb+ZZ67PvtC9fVYZMGAYPF39XNY5JTQBAEJghCc=",
+                "origin": [
+                    568,
+                    218
+                ]
+            }
+        },
+        {
+            "id": 426340258,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:15:17.545Z",
+            "updatedAt": "2020-04-22T20:15:25.890Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBqgFV/olQTkcNChoKAAAADUlIRFIAAACFAAAAKwgGAAAAVsxLogAAAXFJREFUeF7t2tsSgjAMRVH5/49WXmQYBmhLEprL5tXaIenyULXLd70+HdeyXh3DGJKgA0sviqtawZJAwaEEMQqwgELcAZJF3ELzCcySYvTOwTLaMbvxblCclQgUu4W/m9k1CvYroFDpAOkib2PIpHhSNlj6u1YGBY8iUPR34GJk5WQpnxSjeipgAcWoigLJAgolFJn2LKAwRhERCygmobj9RXHyMQVQOEQxO11AEQjFW/8PgSI4CotUAUVSFBIs27lL6bG8Yr1NV+7+R7nmYVywpFv/ZkFNFGczAKXZ19ADHqG4qhgsoS1sN6+KglQBhagDpIqofaZvNk+K0bsHy2jH9Me7Q3EsEST6i96a0T0KNrWtJdR/PSwKNrX6GP4zpkJBquhAKYECLGNYSqPgEXSOBRSdH6JK34JA0YmiUqqAQoAi614FFAYoomMBxYsoojyCQDEZhUcooHCIYjYUUARB8eY+BRTBUVhgAUVSFJJH0A8xjavUkK0f/gAAAABJRU5ErkJgglLiro8=",
+                "origin": [
+                    1101,
+                    225
+                ]
+            }
+        },
+        {
+            "id": 426340266,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-22T20:15:25.492Z",
+            "updatedAt": "2020-04-22T20:15:29.925Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKyQCzFwQYkvaeFbwdS+Z4ujiEe3m+nGfI1GPAwn/wvzyt5KmClRrvzzDc3V84Nbj8y06pBiTXnhJBJyddZUUtEf20JC03zzgh9dv3C7h7ni9fDfY+tnuRcfKzbYKXa49CTCy0fu84Imfxx1ZMLd0rCyvScp5j5/Jj2d5MA31qzyuBXTDsj0g/7O0xmB1rN4Onq57LOKaEJAOZpQbg=",
+                "origin": [
+                    1251,
+                    249
+                ]
+            }
+        }
+    ]
+}

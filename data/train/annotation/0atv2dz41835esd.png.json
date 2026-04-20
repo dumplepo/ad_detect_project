@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 411256427,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "zaner",
+            "createdAt": "2020-04-06T13:34:00.862Z",
+            "updatedAt": "2020-04-06T13:35:06.010Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgsgWy1TnYgOQT559XGRiYBT1dHEMq4t7euZjFrCjAeuHd//ov00SYfDV8Y9IfrVh+PlL2vOg3IY9+/XoWDgEFh4YDn5ieV847Lf/pKGP/XcY58xkYmVg4YgQDlNat6K11eyn5Or8cKCDwQ3WBxw6+mUxe/svWbeUUUDAIcGiU6Mh/PQkocjKCx7XBQZXx6cIgqTTFgliHlzvznnsysUixTml3M5BXd1AIcXjJ+XSLRON5Dg3++YXbuBmZsjk1bLOfWj7N3HNgec/ZC0AbZvglnLz0WNXqrq2JAcgNAh7iFiItJcnSIFcCXcXKMmUek6JEI9iBAifEA6o+9b4Fy7BwiAgEVHG1JLAwgf2kEO/w8qT5NmawQoUAB4eXmgJNgkBmgbhF3+P78Vd/fezc7fRgV8Ol4rvnJgPVcIhXhFa9k9ayf/hF7A5Q+U2FFHcVhwS5xnLv829dus7b7Jy1pa3hUrAyezDQ+AfuDi8LBTmeAH1QuS1MzaHBYbOD98vKuDvm9mfvyN3wAerXKTiu6rBgG1CLtfzls7oLvpyZO/8lp0CEz4LlX+5o1jzefGNpwRwDxqXqPZecgPa/EO/QsN2uKTL/n86aDfMaLm2OW+bn0nDgCFPgUvePM38ISdj6Orz0XLwVFC63WJW8+x9dfve+cyvrlHlbP5daMbGoCQdUqXGf2REMdFLw0dQIJpYwYPCE+d/46calYav89a1vA0OjOuPS41MVJqgv+PLkZtRMYLCdBUad8Ux2jj1A9+3xfdqMCNUN64FuyP/m59fg4Nh44tLj+q8iPDc8nIH2Lfxjpg5MM4sbLj12W6MmULm8OnfKvDjH88LAUA9Q+MT6cPa8AwlW07vObC2eslY+vGpb3/2HnAIrNAS+Ns3Z+MVl7t6kdWlS+gu+9Jw/wAK0r0Lgw6NyRY4nHBq2luvCgEE2o0EpUEfgsYCEwoIvPA7bVRtPMZ1yfFpyxq3Bob/h0uXFz2/qsk5p0k0uz2BiEQNGuhjHxlOCUxq1PGc0gxLCP6GAqknvW5Um8ORUgiP/w7ID5i+0n29wPv8OmDkYGDxd/VzWOSU0AQAUkE8P",
+                "origin": [
+                    707,
+                    151
+                ]
+            }
+        },
+        {
+            "id": 411256486,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "zaner",
+            "createdAt": "2020-04-06T13:35:05.844Z",
+            "updatedAt": "2020-04-06T13:37:07.476Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgbASy5TjYgOQpuUVAivGTp4tjSEXc29uBeYcceFgPvPvLP1drlUDQ1UNNb15I8t4/YiE8+Xje5VKZ4x+fmoYlrN16zGz9x4xG/33mJbX5y2bO5cuOunzxvtRZQQUDJweOPzFqigZJMaaeDQ5bGwQEmK4aL5VjZGpmaWkQkDBZF6XqsCDKgeOO61/fBVW7rig7KMQ5cHA0/lC8qsDIVMsE1P/Fd/opFo4j3ByMigL2S6RUHBb4g1Tsexk0k6GxglFRgeVRe0gzC8cXzpKWA1fq93wtCbg/Z6VPg8OKBoENQhyyvrmCCgWtIJvDz8w8r+CgELLAimVZHuvc6cfLAl5MyOpmaLRjVExQvWAeqyWsIKAfIMv0nNM/ljeC80j/ajZOgRViAkxh2Fy9QBloDOdNvlXz9L5yCHSIg5R9dF7lyMTyC6TsxWy9qZxA4QpVljz/v29kjD9yKt52/PgYpGAVa1nei+3n/9Qm15esEVixL+iVoILDAscEcxa5u1f+r1JkkdKbNomFA2j3C67GzeczHROsV0BDZ4ESy7nJf1quNgh0yIfzCikE6G4QZtq9/8X/1Vura77u3Bvlz7FH69lfFo4eoIO+e2uwHOvfLKzg8EC2Md1xw2/vul+XnZwezH1ZyMPI9JhVyOlBJH+4Qj3zw4nip+7czjcDJgIGT1c/l3VOCU0A2q/Sig==",
+                "origin": [
+                    0,
+                    164
+                ]
+            }
+        }
+    ]
+}

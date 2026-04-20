@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 414483642,
+            "classId": 1371609,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:39:43.522Z",
+            "updatedAt": "2020-04-09T19:40:22.552Z",
+            "tags": [],
+            "classTitle": "pepsi",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKbgVicgw1IOsys4wZSRzxdHEMq4t7e3sh72ICB+WDG/4XCyqVeVvwSyxk9frhMtXv/es+caNZzpXm6Av9ELY7lcGY3vvoo9fmX2tNUpmNzLmrHcUt8jgqJU0s4I7n30dYGw/WutJOY8Cfj5f7Db/bJx87p+Xlxkb3ducd/z/fWMyxUiD5yTP+dMtA/DJ6ufi7rnBKaAFAHaec=",
+                "origin": [
+                    0,
+                    245
+                ]
+            }
+        },
+        {
+            "id": 414483646,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:39:54.332Z",
+            "updatedAt": "2020-04-09T19:40:22.552Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBTwGw/olQTkcNChoKAAAADUlIRFIAAADPAAAAFwgGAAAArOwbHQAAARZJREFUeF7tnEEOwyAMBMv/H90mH6iS1WJW9nBOAc96hEilrO81PoaxrqFM41pfWTv9NyrT9Lq67G+5mlcN2rV+l0Co4z8Btc92cEWeHVSZcwQB5BkRM0XuIIA8O6gy5wgCx+W5KXPvGdFr7YpEnnaRUlAVAeSpIs067QggT7tIKaiKgE2ee8PqO3juPFVxs46TgFUeVSDkcUbKXFUEkKeKNOu0I2CXRzl9OHna9dWIguzyKPce5BnRa+2KtMqjiMOfpO16akxByDMmagp1E7DJw6njjob50gkgT3pC7C+WwFF5eFEQ2xds7AGBY/IgzoN0eCSaQLk8SBPdD2zuBYFSeRDnRTI8Gk9A+uJNalXImZpMz339AAZLs8QFUZ55AAAAAElFTkSuQmCCCw2Q8A==",
+                "origin": [
+                    426,
+                    251
+                ]
+            }
+        },
+        {
+            "id": 414483764,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:40:13.494Z",
+            "updatedAt": "2020-04-09T19:40:22.552Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLXgViMgw1IBp/kXAKk5ni6OIZUxL29vJGXQYGHxXDT/wsNMxpfz2Hct6Fo83td94YD5Y2C18uDm1nmNeywYWr0cIgRXBPJ9OgTM4sSY6HrhjTOjtP8Ah0sR0QPzlJV0LN3UBASCGfJntaw4w8DpYplHrwL32+nwn4H6E4GT1c/l3VOCU0AljFHRQ==",
+                "origin": [
+                    860,
+                    255
+                ]
+            }
+        },
+        {
+            "id": 414483766,
+            "classId": 1371610,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:40:22.149Z",
+            "updatedAt": "2020-04-09T19:40:35.762Z",
+            "tags": [],
+            "classTitle": "nissan",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKngFiMgw1INs5k/gOkpnu6OIZUxL29vFGQQYHniMGm/xcOsDxgnGI19Z3t73tFLBw2rG4aYk4P9BWm7J/Iz+St4eagwMGhqlCpqCAirSDA0iI0YY+AQBevAAeTE6dHHAfHUTYOFsaFLCr6LC1JzCxNDQFMk8SZnDYyMjk6aDCe5GZceIOhUUFhSsOT1oaAnAYHAQEvh09ODhpmqMby3Zofvj/haMIOoBMZPF39XNY5JTQBAOmDOY0=",
+                "origin": [
+                    1078,
+                    255
+                ]
+            }
+        }
+    ]
+}

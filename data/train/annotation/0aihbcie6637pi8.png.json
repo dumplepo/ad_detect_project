@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 410801742,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-04T22:11:28.698Z",
+            "updatedAt": "2020-04-28T14:33:11.580Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJxNVHlQE3cUzq6buIuivxABWxRXLIxy4xGRMLBI5FAJiKggHhSwtKBEB8WgiFmPUgfwKBCKCgS1VkUOQZFohDXaKgUPRlEZUIOI8QBMPQoilf5yTPCfnTdvv/f93vveN29fmCjQ3OxbMxaLZR4cJAxnsUZJYMzHOfCbf19wh8ViM8FCvwjJmt6OluQOPqBaWod3fuDwwTV+Km/hiZ/9b79Ksj/k7T+7fmN7V6cbiuGApKQsRBfUOWvTfUoK1toOPfMY2O4TaEzr/tOb0UK7HtEkeusfFWKeqYK86xxmrzrs5+o9XesqT9trKqC2IB6y9xxceTTlnNPII/5srC3s9vkpPMlPgXFxpnQ+G4vqfrXW9zJzOVkTMgJfi+5qXneTJLUzF1+1NTWqgmhPBXsUhq1hVdub0oMw3VDq1uNGav8tOcezMKGvR0I0kW6Ge1vTxgbDVlHZlg2s/Q35UqY98eg4f8M8EQDEW57sycYqCFyZlPzEzjin0hLEuI5G0BoMe+Kc9sZIXYoec8prj8XwxRZAkqt2WWQAe9sea3KBCCYSoec+uPdQ3yBjhaqSsjy8MARls7E1V0sFM3XYszPISw+OHlkNFSXDKfWCxOgsHUctD6xuz7lPw9Kq81Imels6P1RHXokJC7b76aJlkKS1UTAXgnexhSvc67p1z8hPSBmneamZDpRUOry9VGBoP3UCkAhErYU4iFzOiBWyyUU5+g3S0ez9XT8mXjyZmfz49AFdCwrpy4U+ZPs0fV0jtjKuZ/+GMUpBxI5cFg2QTkvVeq5evqorTDNpk+OkDcgatEXQEvRZ0wKj3H3g0Yy/kv9RdB2vD5ZSGQgi2xmQGmToA6p7bukHG2WkuIw7MJWsXoUbVk0ekZJN/EMpn7kSjdL7Sp1UvjJdWhtqkHMIgDjX62KE1og6HMlTyd3m/w2U+VLNczdjVrpGaXMMa+P4L87A6IJ0KuGiZnRfTWyx2BJIysOL9YAiCBDdO7vJin44L8GvlXj5cR3c48zj1UsgfZ4ViP/9xlvtgRtxrxjeij532hOhrRM22BvsEKuzwyzsEhoac2ti4RyimQskKR3lCyFtFIqulym3EB+ISXbl4++2Y47E0JdrT3x9HUOeRhHgpgPJVIdcz8CfAyCZ9yLGGpPBYFF2owMBguxI5texKj4+gQckf3L66rBt0MwHird+VQYmTiW1AdMHObQdilbelE/OpSygmvGg1k/KhKOo+PSmNmdagb7NePTu6bNbRVmtRLMFiKl5Xg59SPej6J1eaIgoSj1nadpBygyWxo7lQ+/QYXC+vzd4oEljcOUFTUL/JwyLrC98xIViL7cGkrLQu18IzGzoTeaS4cM/qElnS9iR6pSLULeO3VA4MqhkalUN1TRegYo1Ngf717tsnfW2rzdbv61syNAVsuMQw0eHP+c87m9w09Z+87lq9y+V3+f56Cmww9C6s/JHE/d5njzJFC87t+HJ3NWfEuIz9V6QB1Lqjy/TCpgX6M449bSOlSpKXdQAXCo0Da/NDXaRn5EyZV5pGoeN4XJ7YSqhlNUUP3/vaTw9pJBS73WP3sMMoi4tKQnqC2cb6qt5piMBdS4puUjkcUHkuoBeueHUMCqoZ2dnmxfS0j3OdA/T4Sx9o+hc9Njr7367QZjOD6SYeGHvNky4TL8xY/oMjisdc+s3ipZsQW45jZxVBzNcuW+gUma1rJETKxjJW1lMt5HMTyyNTiz76gbPJoaQPRZu79wVFRHwpLOCF4iEFfNjdv0Pb3cXYQ==",
+                "origin": [
+                    392,
+                    163
+                ]
+            }
+        },
+        {
+            "id": 430866225,
+            "classId": 1371613,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ONDRUKHA",
+            "createdAt": "2020-04-28T14:33:11.876Z",
+            "updatedAt": "2020-04-28T14:33:11.876Z",
+            "tags": [],
+            "classTitle": "heineken",
+            "bitmap": {
+                "data": "eJwBVQGq/olQTkcNChoKAAAADUlIRFIAAACfAAAAGQgGAAAAL/L8JQAAARxJREFUaEPt2dsOhCAMRVH8/49mwgPJxAgqxUNDt88jl9OViuORuEggpZRzzsogjnKpJ1VuMNJcpZaW/aodgM9SLWf3gs9ZQaItxwKQzhdNy+T9gm9yoAz3PIG3+Eq3q/fQ+Z7nzC8bCbwFWIcBH6SmJDACEHxTomcQ8GFgWQLgWxY9E4MPA8sSGMFXFis/96knXFaRQBNf4at17sFUW+Db7oYoR/Gpux/4NsPX6mz/Xe3usazqgOALgO8Kk4fHL/g2x9fqYuDbrPAetnNGBT4PVQmwht6Lxnn7dL4AIJRbnIFP9bJRcuHMp9Tx8Vzg+zhghm8nYMWn7Hp0vs0kW/Cp4YFvc3w9UL234rs/oWfFxpnPmKSqUMZlurz9BxEl8+ohS31MAAAAAElFTkSuQmCCXlGgPg==",
+                "origin": [
+                    0,
+                    200
+                ]
+            }
+        }
+    ]
+}

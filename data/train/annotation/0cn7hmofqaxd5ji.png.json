@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 420427766,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-04-15T06:38:03.719Z",
+            "updatedAt": "2020-04-15T06:38:28.809Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJwBTgGx/olQTkcNChoKAAAADUlIRFIAAAD8AAAAFAgGAAAAqbxQiAAAARVJREFUeF7t2cEKwjAQRVHz/x8dKbgo0lrRGTpDjvs+JjfvkjaOh9+SBOacc8mFL77o0WX9dxV0jHHJ6K7ZuuydOesQGMr6eTMIX6esJvmfAOEvGBL+/5JJqEOA8AHCbxHelOqU2iTnBAgfJDzpadaBAOEJ36GnZgwiQPhA4Z3yQa0Uk0aA8Cdov7msO3rUt3xaVwUHECD8DuKvku/3gfABrRSRRoDwL7RkT+uY4EIECE/4QnU0SjYBwhM+u2PyCxEgPOEL1dEo2QQIHyS8y7rsqsqPIEB4t/QRPZLRhADhg4Xf4pz2Tdq/4JiEf9v0iL/nSL+gSU2WTPiEE57wTdofOGbUQRE40mEU4RcVvktBswVYLf8JdxObzTf6ByoAAAAASUVORK5CYILZrJSw",
+                "origin": [
+                    0,
+                    244
+                ]
+            }
+        },
+        {
+            "id": 420427780,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "R1chardson",
+            "createdAt": "2020-04-15T06:38:28.665Z",
+            "updatedAt": "2020-04-15T06:38:47.503Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgtgGy5TnYgKSS2onXDAxMNzxdHEMq4t7eccw7rCDAeqHov/PuIPGpUZqBOfw/mPWzmQ/Pjvxgnhlfx8IhoODQwMDIxMLho1sgc9zwK6uV2H2rd7nZTHCpyxwcvJe3vApZyHReU09eGKZ+j7CA1Bn3WQ0HJl8T/ApVepubg/d2P0ODE2PjcoHLYRAjHNoaDky4yB4q4CEgUCG0awEb2GgBNQWDFlMXSxaOGDGBCr3LkR5gY+O4OXiWNQNZkkxM/m7yIY4g0f8sLGzKYJYoULR1kS1Q/4cFDQkfFPYt5gRaoRDn8KAzfyITp4CF8oOP9W6nt4NtTqhlbEz/K7f74TEmuf/S5vevcoKd2SjP2HhcIQeocr/v6tgpYM8AzdNW+BAjw9b/vLtgmiDMjwISGhds7rBnWXdBVYG0L2RiOh+Q145QpGAQ5PBAcuVbHUSYsbRxcdg475R1gylxSOBtvHZL5D+7woc1hvl5jjBxATUDbwWOZG199wea6lsVYbY4LGpgmHRj6j9TTpu/vXPhFn1wcuAwlNrLyjLv3qFv6rCIU1Fo8Lmis7ROReFDzZEnylAjDtgyOj6aN/8qyzqgU8KfrlGGKPdiYWkUcpsNNuuBoRRYrYKPAwNHdkcRh8CMKIcHM3fVdgHNPjCLSe5P9rera0H2tjQc+NyyyxgYgAEKCiIiCreaQGZNExeomJa/kVtI4YOfQ4aBPMSjucBQf/tvl2zjOyYm5/IkdmiQmLOwzJOumCa0QkhAapXKW2eon34Aw31GRwVjosI+Vy4VqJeOAJ28cO3HE/y5PZvgQbpM6Adb++HqB0tPJWsDkzqDp6ufyzqnhCYAokjqXQ==",
+                "origin": [
+                    452,
+                    227
+                ]
+            }
+        }
+    ]
+}

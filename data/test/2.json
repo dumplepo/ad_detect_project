@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 297280960,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "model",
+            "createdAt": "",
+            "updatedAt": "",
+            "tags": [],
+            "classTitle": "billboard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgMGNgYBDgYGBgYKi4fVmLgYFB39PFMURDdO5BRkYGBoYmhb/2t+xYjh2ukOB/nGjT0/7RQA6Fw6xrLMBosdJKDGSEp6ufyzqnhCYA9nkb7w==",
+                "origin": [
+                    586,
+                    62
+                ]
+            }
+        },
+        {
+            "id": 306038026,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "model",
+            "createdAt": "",
+            "updatedAt": "",
+            "tags": [],
+            "classTitle": "billboard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgXMXAwCDOwcDAwFB/PMSUgYFhmqeLY0gG69uD0X7MjgIsB8/8lt9lIybP0cvD9s10r2wiQ+b19B/ame5GOW63+niuK7ytbpt6olaSa4K0wRVlUclTk4V4tit7G23Ze1KM523Fp+q2MqmfInYcjDMlbs18ovnHJ47zLYfQPaX/grcSU4oXvnXU09qyPoV1oaI353fV1VzNZ5x8N60yOKFzRQWZ84Vha7E878KHqkogl3q6+rmsc0poAgCEoUtr",
+                "origin": [
+                    0,
+                    51
+                ]
+            }
+        },
+        {
+            "id": 301308745,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "model",
+            "createdAt": "",
+            "updatedAt": "",
+            "tags": [],
+            "classTitle": "billboard",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg8GFgYODhYGBgYHi7hGU2AwODlqeLY4iG6NqDjIwMDAxNCn/tb/mxHOv/mPxHwh6VYs5n5GEU/Sw7GaTb09XPZZ1TQhMAqv8cjw==",
+                "origin": [
+                    386,
+                    62
+                ]
+            }
+        }
+    ]
+}

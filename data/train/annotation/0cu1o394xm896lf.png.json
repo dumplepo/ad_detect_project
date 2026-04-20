@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 411262235,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "zaner",
+            "createdAt": "2020-04-06T14:13:00.888Z",
+            "updatedAt": "2020-04-06T14:14:38.871Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    6,
+                    143
+                ]
+            }
+        }
+    ]
+}

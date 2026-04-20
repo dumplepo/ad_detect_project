@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 422865703,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-17T19:03:16.270Z",
+            "updatedAt": "2020-04-17T19:04:52.972Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJwBswRM+4lQTkcNChoKAAAADUlIRFIAAAJAAAAAJggGAAAALKgkWAAABHpJREFUeF7tmFFy6zAMA+v7Hzpv8uFOmpdWhETZArX9rSwTCyTE5Hg8Ho8v/roIHMdxdD3IQxCAAAQgAAEI3ErgoADdyn+pl1PolrKDYSAAAQhAYCIBCtBEuFwdI9BTvKLFvefu2NScggAEIAABZwIUIGf3iszeU1KiBagIom8ZPayqMUAPBCAAgQwCFKAMityRQkBZ7rsWoBTQC12ieL7Q2IwCAQgUIEABKmBiFQnKMqQAVXFd0xHNyJ35iM6oKec0BCCQTYAClE2U+4YIRJbHncttSBwPpxCIZOR8EVkZR67wHn8bN0DgOgIUoOtY86YAgdaXLQstALH4kVZGfpNPdooHQ5DXmyHhFRw1IEABMjBppxFbX0wssZ3S8L/WVj5adMhPixD/dyQw+rlw1JwxMwUogyJ3pBFofZBZYGmo7S5qZSMqiAxFSXEOAvcQyPqst6anALUI8f/LCERCz/K6zI6lXhTJRnRgMhQlxTkI1CZAAartr4266IJjedlYmjZoNBvKC8mRQouzEKhJgAJU01c7VdElx+Kys3Zo4E+5ODMQzcynAcjRkC08DIESBChAJWz0FqEsMhaXt9fq9O/ZePdfyc7ru8mR6gTnIVCPAAWonqdWitQFxuKysnd42Gc+/vJczc85EDkatoYLIGBPgAJkb6G3AGWBsbS8vZ4xvZIffgGa4QB3QsCXAAXI1zv7ydXlRQGyt3yKADVHzyHI0hQruBQCVgQoQFZ21RpWXVwsrVr+Z6lRc0QByiLPPRDwJkAB8vbPevqexcXysrZ82vBqlijT06zgYgjYEKAA2VhVb1B1aZ0EWF71sjCqSM0SGRolzvMQ8CdAAfL30FqBurhexbLErK1PHV7NEdlJxc9lELAkQAGytK3W0OryogTV8j9DjZIhyk8Gce6AgD8BCpC/h/YKlOX1LpZlZm9/igAlQ2QmBTmXQMCeAAXI3kJ/AcryogD5+z1DgZIhCtAMB7gTAn4EKEB+npWbWFleFKBy9qcIUjJEAUpBziUQsCdAAbK30F+AsrwoQP5+z1CgZIgCNMMB7oSAHwEKkJ9n5SZWlhcFqJz9KYKUDFGAUpBzCQTsCVCA7C2sI0BZYqdqllkd/3uVqLkhM72keQ4CtQhQgGr5Kat5Xx4rLAdloa0wrwydB1IJKHmhOKei5zIIWBOgAFnb1zd8a2GsUipac7LM+vyv9lQ0J6+6V8l4NS/QAwEnAsfdw/JFdL0DrYWxoid/zbzivNe7uu8bW3n+RIbM7JsXlEPgJHB7Adrdiqu/iJ/L4nznb4vj6pnUDLjOrerkfIwABSjGiVMQgMBPAhSgDRPxWnB6lkcmst6yxS9CmS543/UpC++5ipzxpsD0EICASoACpBIrcr71K1ARmcvL6C2Aywu7cMBIuYmcuXBkXgUBCCxAgAK0gAmMAIFdCWQUwGi5iZ7b1Qt0Q2A3AhSg3RxHLwQgsAyBjAK4jBgGgYAZAQqQmWGMCwEIQKAKAQpgFSc9dVCAPH1jaghAAAIQMCdAAbzXwH8n17/GTlEBjgAAAABJRU5ErkJggk7qCZA=",
+                "origin": [
+                    0,
+                    154
+                ]
+            }
+        },
+        {
+            "id": 422865740,
+            "classId": 1371607,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kirill_m",
+            "createdAt": "2020-04-17T19:04:52.804Z",
+            "updatedAt": "2020-04-17T19:05:18.420Z",
+            "tags": [],
+            "classTitle": "playstation",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgzAKy5TjYgCSrTEgDUEDG08UxpCLu7ZWDvAwGPEwby/4vXHlF891DnwafI3e3PeYQUHBQ0C7gLd0mfRDI/sDKs9VdwaHBIeZAwHFuoX4GRqa2W/wgNXoJKx6zdro3MDA6v2UHqhQQN7jysemIskNDw8JvzCwcAh3cEq8qHB8JKjgcCPjNyMTCcYSVp3SPwkeg2oQVf4EGsTxiarOKm1ABVGtwpQ5oEFMho7OsvocNUK1Elr1DA0PjjoaFfeIqckC1PFvlae+Mik+65cv1zpy8DgwuBk9XP5d1TglNACmXagQ=",
+                "origin": [
+                    918,
+                    165
+                ]
+            }
+        }
+    ]
+}

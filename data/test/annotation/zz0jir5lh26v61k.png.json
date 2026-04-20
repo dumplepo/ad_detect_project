@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 414484018,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:41:56.509Z",
+            "updatedAt": "2020-04-09T19:42:27.254Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg6gWyVTnYgKR67eXnDAzM6Z4ujiEVcW/vnp4220CA9cCP//ZWM28+VUlW2eDwV2M966t10x5WPb3+fv359b3zr19Pf/xtm5pDAwMjEwuHwAyBird8vcKm86KUWuY92jQDIqpgoBqgZ+JXWls0UaFK6EwRWMxhwZyGCzsylzS9UKu4LaQANmE6S8sx75yPekJOj8+6uEJUTWq4EJE5y/y70ox7PG++gcUUNjRckKiwuOstHLR7PsNfYaBmBxXGhYaXTK5sCnXwuHsqvxhkBYeeggmb/IRPr7g4VpamrzYGioWICEhp+4X6s9QJCATJcoNU/XBxyPjjcn4rC8ceUaAYH1DsipCAVPbZYHOWUxw9Ts/3/08zjYpnc1MGKr6homCS17Rdl5HpONNiAYm/+gHuX2fbAz25iZOj96basjgmXxa3hdpVGWcslk2sPDbvik/DASvGhYVzl1oLKmwISBBJaDnWeqMz39RKvTM62KqxgMkpecdEjQ6GxvzGQAkBqbmT1zAt3jx3q37pdXEBqdfnI9pZgrh64tY4JZ/aqLVr5YEXv+9MUY297ZS8a6LmDAf+xovebhlvCvlKPBcsPvDi5/bTLhl3VPPjmVj4WN34fRdeZFRyaDiwmcnp8eZ7ZcoOCUEOGXNaNvUAA5qfc8+5N4+n/5XUzeYEhsADDZMqsVql11FAz8cIW4hKrc81LJ86/cCcyaEsuzg4emPV1voD/cjRwtlb3sy5tJx7t33jVqb3Tovff4pKL1cGWrLGYfYFC+6i1LnTb4iaXhewEAP6RQBo2hFgUCaffbw/i+XSA+age7lAt+RuyfNpYGj0BjJVt1mJcy4tTYtcK7xw4y2Xr84NDmXAePzNwnxdfwKbnF/TpZZjLM5BSoxMa4EpI+zxustrHKLSp723EoSEDccToPHFZ7238nNyLOV3lM9RNnk3v5ELmEY+bG+48MJGgEPngu2efyIyu2ez2K3zUnZYsAOYmmoO3FL+sOTAKwd1EztL22pBBYcHEQ4ZJU4cAhnaG6yebGu9YsHIpAu0UCz5mgojUygLy12tyVfYG2uAkbVv5kpQos5kabljsjhIo3FhwwULlU3g1L+Lm2P/Xf+Gf/tZW9yeQ/KDiZhAhzT//5TXTo89DU5zCoBSeaMNk9PHXZF/GQXvPr61LH7TYWDOY/B09XNZ55TQBADI+GN5",
+                "origin": [
+                    0,
+                    72
+                ]
+            }
+        },
+        {
+            "id": 414484030,
+            "classId": 1371611,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "komenchuk.oleh",
+            "createdAt": "2020-04-09T19:42:26.834Z",
+            "updatedAt": "2020-04-09T19:42:37.369Z",
+            "tags": [],
+            "classTitle": "gazprom",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgXANki3OwAcnwTdXrgALeni6OIRVxb+8aTjpkwMDs8Oe/uzOb3IRjB6dtXZm/YeujRY+6pPX5GZlYOHLUP+yb91Zv6w+n5I8/+9QdGg4sZor70//p39fDvNfid8q6KUQfOG2/e/+X2/Xsp6cX7Jc6/vVNubb5LM0H3/OWLTufJWAQwat72qOBoZGZhecao2qXA5DJxth89cKmHhYOAQuHAwmyAYs4gMwMAYl/H24HbAYJnxA3iPgp6wVSy8XYHBq4eQLtBXNZ0/7l2zdvzT2r5wbkVjfObC6ov3VrvkFE9t+5fg0ODQ6XNd7EtB+8tVO2XLmAsyLyl5TAD84ahuzs+DNfTB4tB4Yug6ern8s6p4QmADhBlD8=",
+                "origin": [
+                    852,
+                    88
+                ]
+            }
+        }
+    ]
+}
